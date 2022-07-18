@@ -1,0 +1,542 @@
+==========================================================================================
+Subject Name:  s01
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['F7', 'FC1', 'CP2', 'T7', 'C4']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  11
+Channels selected in Growing Phase:  ['F8', 'Fp1', 'CP5', 'AF4', 'C4', 'T7', 'Fp2', 'F3', 'P7', 'P4', 'Fz']
+Class Label:  all
+Accuracy in Growing Phase:  0.5
+No of selected channels in Growing Phase:  9
+Channels selected in Growing Phase:  ['C3', 'F7', 'F4', 'F8', 'CP5', 'Fp2', 'Fp1', 'P3', 'P8']
+
+
+==========================================================================================
+Subject Name:  s02
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  9
+Channels selected in Growing Phase:  ['Oz', 'T8', 'PO4', 'F7', 'CP1', 'Fz', 'C3', 'CP2', 'Pz']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.85
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['Cz', 'F7', 'Pz', 'F4', 'F3', 'CP6', 'CP1', 'P7']
+Class Label:  all
+Accuracy in Growing Phase:  0.55
+No of selected channels in Growing Phase:  11
+Channels selected in Growing Phase:  ['Fp2', 'Oz', 'T8', 'P8', 'PO4', 'FC5', 'Cz', 'P3', 'PO3', 'CP6', 'F8']
+
+
+==========================================================================================
+Subject Name:  s03
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['Fp2', 'PO3', 'Fp1', 'F4', 'FC1', 'P8', 'T7', 'F7']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.875
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['T8', 'P3', 'P8']
+Class Label:  all
+Accuracy in Growing Phase:  0.575
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['T8', 'T7', 'F7']
+
+
+==========================================================================================
+Subject Name:  s04
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['PO4', 'T8', 'C3', 'F3', 'Fp1', 'FC1']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.7
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['FC6', 'P7', 'PO3', 'Cz', 'P8', 'F4', 'AF3', 'PO4']
+Class Label:  all
+Accuracy in Growing Phase:  0.55
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['T8', 'FC6', 'T7', 'PO3', 'CP1']
+
+
+==========================================================================================
+Subject Name:  s05
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['C3', 'Cz', 'C4', 'PO3', 'P3', 'AF3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['T7', 'P3', 'PO3', 'P8']
+Class Label:  all
+Accuracy in Growing Phase:  0.525
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['CP2', 'T7', 'FC5', 'P8', 'CP6', 'FC2', 'F8', 'FC6']
+
+
+==========================================================================================
+Subject Name:  s06
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.85
+No of selected channels in Growing Phase:  1
+Channels selected in Growing Phase:  ['P3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['CP2', 'T8', 'F4', 'PO4', 'Fp2']
+Class Label:  all
+Accuracy in Growing Phase:  0.65
+No of selected channels in Growing Phase:  9
+Channels selected in Growing Phase:  ['P3', 'CP2', 'CP6', 'FC5', 'Fp1', 'P4', 'C4', 'FC6', 'CP1']
+
+
+==========================================================================================
+Subject Name:  s07
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  10
+Channels selected in Growing Phase:  ['F7', 'AF4', 'Fp1', 'FC6', 'T8', 'Pz', 'CP1', 'P7', 'CP5', 'C4']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['Fp2', 'C4', 'F4', 'CP2', 'FC6', 'O2']
+Class Label:  all
+Accuracy in Growing Phase:  0.55
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['F7', 'P8', 'O2', 'T8', 'PO3', 'P4', 'Pz', 'Fz']
+
+
+==========================================================================================
+Subject Name:  s08
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['F7', 'Fz', 'CP1', 'P8', 'FC2', 'PO3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['CP1', 'F7', 'Pz', 'P4', 'P7', 'T7']
+Class Label:  all
+Accuracy in Growing Phase:  0.4
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['CP1', 'F7', 'Pz', 'CP2', 'P7', 'Cz', 'PO3']
+
+
+==========================================================================================
+Subject Name:  s09
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.675
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['F4', 'O1', 'F8', 'AF3', 'F3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['T7', 'P4', 'CP2', 'Fz']
+Class Label:  all
+Accuracy in Growing Phase:  0.525
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['T7', 'F4', 'F7', 'FC5', 'Cz']
+
+
+==========================================================================================
+Subject Name:  s10
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  2
+Channels selected in Growing Phase:  ['F7', 'F3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.85
+No of selected channels in Growing Phase:  14
+Channels selected in Growing Phase:  ['O1', 'AF4', 'Fz', 'P4', 'F3', 'Fp1', 'T7', 'PO3', 'F4', 'FC1', 'Oz', 'P8', 'FC5', 'FC6']
+Class Label:  all
+Accuracy in Growing Phase:  0.6
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['F3', 'Fz', 'FC1', 'T7']
+
+
+==========================================================================================
+Subject Name:  s11
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.875
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['T8', 'F3', 'C3', 'Fp2', 'C4', 'CP1', 'F7']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['Cz', 'FC1', 'FC6', 'CP6', 'FC5', 'CP1', 'C3', 'O1']
+Class Label:  all
+Accuracy in Growing Phase:  0.65
+No of selected channels in Growing Phase:  13
+Channels selected in Growing Phase:  ['FC1', 'T8', 'FC6', 'F4', 'Cz', 'Fp1', 'F3', 'T7', 'P8', 'Fp2', 'O2', 'CP2', 'Oz']
+
+
+==========================================================================================
+Subject Name:  s12
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['AF3', 'C4', 'PO3', 'T7', 'CP5', 'FC2']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.85
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['AF4', 'Cz', 'C3', 'Pz', 'AF3', 'P3', 'CP1']
+Class Label:  all
+Accuracy in Growing Phase:  0.625
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['AF4', 'Cz', 'Fp2', 'P4', 'Pz', 'C3']
+
+
+==========================================================================================
+Subject Name:  s13
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.9
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['AF4', 'Fp1', 'T7', 'P8', 'Oz', 'Fp2', 'FC5', 'PO3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.925
+No of selected channels in Growing Phase:  23
+Channels selected in Growing Phase:  ['O2', 'O1', 'P4', 'FC2', 'Cz', 'F7', 'P8', 'CP2', 'T7', 'T8', 'CP5', 'PO3', 'P7', 'C3', 'Pz', 'Fp1', 'CP6', 'Fp2', 'Fz', 'F4', 'PO4', 'F3', 'F8']
+Class Label:  all
+Accuracy in Growing Phase:  0.7
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['O2', 'T7', 'Fp2']
+
+
+==========================================================================================
+Subject Name:  s14
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.875
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['O1', 'Cz', 'FC1', 'Fp2', 'P8', 'T7', 'F3', 'C4']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['AF3', 'C3', 'AF4']
+Class Label:  all
+Accuracy in Growing Phase:  0.575
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['FC1', 'O1', 'Cz', 'P8', 'AF4', 'F4', 'P7']
+
+
+==========================================================================================
+Subject Name:  s15
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['FC2', 'Fz', 'C3', 'T8', 'O2', 'C4', 'AF3', 'F4']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['F8', 'CP6', 'CP2']
+Class Label:  all
+Accuracy in Growing Phase:  0.6
+No of selected channels in Growing Phase:  10
+Channels selected in Growing Phase:  ['CP1', 'F8', 'T8', 'FC2', 'C4', 'C3', 'PO4', 'FC6', 'CP6', 'O1']
+
+
+==========================================================================================
+Subject Name:  s16
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['Fz', 'Oz', 'O1', 'F3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.925
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['Fz', 'Fp2', 'F7', 'F4', 'PO4', 'Fp1']
+Class Label:  all
+Accuracy in Growing Phase:  0.625
+No of selected channels in Growing Phase:  9
+Channels selected in Growing Phase:  ['Fz', 'Cz', 'O1', 'Fp2', 'FC6', 'FC1', 'PO4', 'F7', 'PO3']
+
+
+==========================================================================================
+Subject Name:  s17
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['F3', 'F4', 'C4']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.875
+No of selected channels in Growing Phase:  14
+Channels selected in Growing Phase:  ['FC5', 'F3', 'O2', 'FC6', 'Pz', 'Fp2', 'Cz', 'O1', 'C3', 'F7', 'F8', 'PO3', 'P7', 'Oz']
+Class Label:  all
+Accuracy in Growing Phase:  0.425
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['F3', 'O2', 'C4', 'AF3', 'Cz', 'T8', 'Fz']
+
+
+==========================================================================================
+Subject Name:  s18
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  2
+Channels selected in Growing Phase:  ['FC1', 'Pz']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  10
+Channels selected in Growing Phase:  ['Fp1', 'CP6', 'P7', 'AF3', 'C3', 'CP1', 'Pz', 'Fp2', 'P8', 'P4']
+Class Label:  all
+Accuracy in Growing Phase:  0.575
+No of selected channels in Growing Phase:  11
+Channels selected in Growing Phase:  ['CP6', 'T7', 'Fp1', 'O2', 'F4', 'CP5', 'FC1', 'P8', 'AF4', 'AF3', 'Fp2']
+
+
+==========================================================================================
+Subject Name:  s19
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['Fp2', 'Fp1', 'FC1', 'P7', 'P8']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['F4', 'C3', 'PO4', 'F7', 'Fz', 'F3', 'P7']
+Class Label:  all
+Accuracy in Growing Phase:  0.575
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['Fz', 'CP5', 'P4', 'C3', 'PO4', 'Oz', 'FC6', 'FC2']
+
+
+==========================================================================================
+Subject Name:  s20
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['P3', 'Fz', 'Cz', 'T8', 'F8', 'Pz', 'Oz']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.875
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['C3', 'O2', 'C4', 'P3', 'F3']
+Class Label:  all
+Accuracy in Growing Phase:  0.525
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['C3', 'CP6', 'CP2', 'O2', 'Cz']
+
+
+==========================================================================================
+Subject Name:  s21
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.85
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['T8', 'C3', 'AF4', 'F3', 'FC2', 'CP5', 'F8']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.925
+No of selected channels in Growing Phase:  13
+Channels selected in Growing Phase:  ['CP1', 'FC2', 'FC6', 'PO3', 'Fz', 'P3', 'FC1', 'CP2', 'CP6', 'Cz', 'PO4', 'F8', 'T8']
+Class Label:  all
+Accuracy in Growing Phase:  0.675
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['CP1', 'FC2', 'C4', 'Cz']
+
+
+==========================================================================================
+Subject Name:  s22
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['Fz', 'C4', 'AF3', 'P7', 'CP2', 'P8']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['F7', 'C3', 'Cz', 'AF3']
+Class Label:  all
+Accuracy in Growing Phase:  0.55
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['F8', 'F7', 'P7', 'P8', 'F3']
+
+
+==========================================================================================
+Subject Name:  s23
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['C4', 'PO4', 'P7', 'F3', 'CP1', 'FC6']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.925
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['F3', 'FC2', 'C3', 'AF3', 'T8', 'PO4', 'FC1', 'F7']
+Class Label:  all
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['F3', 'F4', 'C4', 'Fz', 'PO4', 'T7']
+
+
+==========================================================================================
+Subject Name:  s24
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['CP1', 'Oz', 'CP6']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.825
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['O2', 'T7', 'Fp2', 'Fz']
+Class Label:  all
+Accuracy in Growing Phase:  0.575
+No of selected channels in Growing Phase:  2
+Channels selected in Growing Phase:  ['Pz', 'FC1']
+
+
+==========================================================================================
+Subject Name:  s25
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  13
+Channels selected in Growing Phase:  ['F4', 'C4', 'P8', 'C3', 'F3', 'Fp2', 'T7', 'F7', 'P4', 'O1', 'CP5', 'PO3', 'FC1']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['CP2', 'F3', 'FC6', 'Fp2', 'Cz', 'Fz']
+Class Label:  all
+Accuracy in Growing Phase:  0.425
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['F4', 'Fp2', 'F3', 'F8', 'Cz', 'P4', 'Pz']
+
+
+==========================================================================================
+Subject Name:  s26
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  1
+Channels selected in Growing Phase:  ['Cz']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['P8', 'CP2', 'P4', 'O2', 'F8']
+Class Label:  all
+Accuracy in Growing Phase:  0.525
+No of selected channels in Growing Phase:  2
+Channels selected in Growing Phase:  ['Cz', 'Fp1']
+
+
+==========================================================================================
+Subject Name:  s27
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.975
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['AF4', 'CP2', 'F4', 'Fp2', 'F7']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.725
+No of selected channels in Growing Phase:  11
+Channels selected in Growing Phase:  ['CP5', 'F4', 'Pz', 'FC2', 'Cz', 'T7', 'C4', 'AF4', 'CP1', 'C3', 'FC1']
+Class Label:  all
+Accuracy in Growing Phase:  0.65
+No of selected channels in Growing Phase:  8
+Channels selected in Growing Phase:  ['FC5', 'P3', 'O1', 'F4', 'Cz', 'Oz', 'FC1', 'Fp2']
+
+
+==========================================================================================
+Subject Name:  s28
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.8
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['Fp1', 'Fz', 'AF3']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.7
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['CP2', 'Fp1', 'FC6', 'CP6', 'AF4', 'Pz', 'T8']
+Class Label:  all
+Accuracy in Growing Phase:  0.65
+No of selected channels in Growing Phase:  13
+Channels selected in Growing Phase:  ['T7', 'FC2', 'Oz', 'Fp1', 'Pz', 'P7', 'P4', 'FC6', 'AF3', 'Fp2', 'CP5', 'C3', 'F7']
+
+
+==========================================================================================
+Subject Name:  s29
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['Oz', 'FC6', 'FC5']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.85
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['P8', 'Fp1', 'Oz', 'CP1', 'PO4']
+Class Label:  all
+Accuracy in Growing Phase:  0.625
+No of selected channels in Growing Phase:  11
+Channels selected in Growing Phase:  ['P8', 'FC6', 'CP1', 'Oz', 'C4', 'PO4', 'Fp1', 'P3', 'T8', 'F8', 'CP5']
+
+
+==========================================================================================
+Subject Name:  s30
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  5
+Channels selected in Growing Phase:  ['Fz', 'F8', 'T8', 'FC1', 'Oz']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['F7', 'Fz', 'Pz']
+Class Label:  all
+Accuracy in Growing Phase:  0.45
+No of selected channels in Growing Phase:  2
+Channels selected in Growing Phase:  ['P4', 'Fz']
+
+
+==========================================================================================
+Subject Name:  s31
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.725
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['P8', 'CP1', 'C4', 'Pz', 'CP6', 'F8']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.725
+No of selected channels in Growing Phase:  3
+Channels selected in Growing Phase:  ['CP2', 'Cz', 'F3']
+Class Label:  all
+Accuracy in Growing Phase:  0.575
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['Fz', 'CP6', 'P3', 'P7', 'FC2', 'Pz', 'O1']
+
+
+==========================================================================================
+Subject Name:  s32
+==========================================================================================
+Class Label:  valence
+Accuracy in Growing Phase:  0.75
+No of selected channels in Growing Phase:  6
+Channels selected in Growing Phase:  ['Pz', 'FC5', 'F3', 'F8', 'FC6', 'Fz']
+Class Label:  arousal
+Accuracy in Growing Phase:  0.775
+No of selected channels in Growing Phase:  7
+Channels selected in Growing Phase:  ['AF3', 'CP5', 'FC1', 'Cz', 'F4', 'PO4', 'FC6']
+Class Label:  all
+Accuracy in Growing Phase:  0.575
+No of selected channels in Growing Phase:  4
+Channels selected in Growing Phase:  ['Pz', 'FC5', 'AF3', 'FC6']
